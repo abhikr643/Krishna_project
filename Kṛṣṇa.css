@@ -141,7 +141,7 @@ html,body{
 
 .img12{
     width: 100%;
-    height: 80%;
+    height: 700px;
     background-image: url(img/chantandbehappy.jpg);
     display: flex;
     flex-direction: column;
