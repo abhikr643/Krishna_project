@@ -1,0 +1,219 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    font-family: "Lato", sans-serif;
+    overflow-x: hidden;
+    
+}
+
+/* .navbar{
+    height: 40px;
+    border: 2px red solid;
+    position: sticky;
+    top:0px;
+    overflow: hidden;
+} */
+
+#parallaximg{
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.img1{
+    width: 100%;
+    height: 100%;
+    background-image: url(img/img1.jpg);
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img2{
+    width: 100%;
+    height: 80%;
+    background-image: url(img/matsya\ avatar.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img3{
+    width: 100%;
+    height: 500px;
+    background-image: url(img/kurma.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img4{
+    width: 100%;
+    height: 400px;
+    background-image: url(img/Varaha.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img5{
+    width: 100%;
+    height: 500px;
+    background-image: url(img/Narasimha.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img6{
+    width: 100%;
+    height: 500px;
+    background-image: url(img/vamana.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img7{
+    width: 100%;
+    height: 500px;
+    background-image: url(img/parasurama.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img8{
+    width: 100%;
+    height: 500px;
+    background-image: url(img/Rama.webp);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img9{
+    width: 100%;
+    height: 500px;
+    background-image: url(img/krsna.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img10{
+    width: 100%;
+    height: 500px;
+    background-image: url(img/buddha.webp);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img11{
+    width: 100%;
+    height: 500px;
+    background-image: url(img/Kalki.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img12{
+    width: 100%;
+    height: 700px;
+    background-image: url(img/chantandbehappy.jpg);
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    border-top:solid rgb(11, 11, 11) 8px;
+    
+}
+
+
+
+.text1{
+    display: inline-block;
+    text-align: center; 
+    color: rgb(211, 217, 231);
+    background: #313534e7;
+    font-size: 40px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    letter-spacing: 8px;
+    padding: 10px;
+    overflow-x:auto;
+}
+
+
+.para1{
+    text-align: center;
+    padding:20px;
+    background-color: #e0919195;
+    font-size: larger;
+   line-height: 1.8rem;
+}
+
+.heading{
+    color: rgb(211, 217, 231);
+    background-color: rgba(0, 0, 0, 0.879);
+    font-size: 40px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    letter-spacing: 8px;
+    padding: 10px;
+    overflow-x: auto;
+}
+
+.para2{
+    text-align: center;
+    padding:20px;
+    background-color:rgb(232,185,133);
+    font-size: larger;
+   line-height: 1.8rem;
+}
+
+.chanting{
+    color: rgb(14, 15, 17);
+    background-color: rgba(205, 141, 141, 0.632);
+    font-size: 20px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    letter-spacing: 5px;
+    padding: 30px;
+    font-weight: bold;
+}
+
+.footer{
+    text-align: center;
+    background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+    display: flex;
+    justify-content:center;
+    gap: 10px;
+    padding: 10px;
+}
