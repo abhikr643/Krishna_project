@@ -51,7 +51,7 @@ html,body{
 
 .img3{
     width: 100%;
-    height: 500px;
+    height: 80%;
     background-image: url(img/kurma.jpg);
     display: flex;
     justify-content: center;
@@ -61,7 +61,7 @@ html,body{
 
 .img4{
     width: 100%;
-    height: 400px;
+    height: 80%;
     background-image: url(img/Varaha.jpg);
     display: flex;
     justify-content: center;
@@ -71,7 +71,7 @@ html,body{
 
 .img5{
     width: 100%;
-    height: 500px;
+    height: 80%;
     background-image: url(img/Narasimha.jpg);
     display: flex;
     justify-content: center;
@@ -81,7 +81,7 @@ html,body{
 
 .img6{
     width: 100%;
-    height: 500px;
+    height: 80%;
     background-image: url(img/vamana.jpg);
     display: flex;
     justify-content: center;
@@ -91,7 +91,7 @@ html,body{
 
 .img7{
     width: 100%;
-    height: 500px;
+    height: 80%;
     background-image: url(img/parasurama.jpg);
     display: flex;
     justify-content: center;
@@ -101,7 +101,7 @@ html,body{
 
 .img8{
     width: 100%;
-    height: 500px;
+    height: 80%;
     background-image: url(img/Rama.webp);
     display: flex;
     justify-content: center;
@@ -111,7 +111,7 @@ html,body{
 
 .img9{
     width: 100%;
-    height: 500px;
+    height: 80%;
     background-image: url(img/krsna.jpg);
     display: flex;
     justify-content: center;
@@ -121,7 +121,7 @@ html,body{
 
 .img10{
     width: 100%;
-    height: 500px;
+    height: 80%;
     background-image: url(img/buddha.webp);
     display: flex;
     justify-content: center;
@@ -131,7 +131,7 @@ html,body{
 
 .img11{
     width: 100%;
-    height: 500px;
+    height: 80%;
     background-image: url(img/Kalki.jpg);
     display: flex;
     justify-content: center;
@@ -141,7 +141,7 @@ html,body{
 
 .img12{
     width: 100%;
-    height: 700px;
+    height: 80%;
     background-image: url(img/chantandbehappy.jpg);
     display: flex;
     flex-direction: column;
